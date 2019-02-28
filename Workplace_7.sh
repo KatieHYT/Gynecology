@@ -1,0 +1,1 @@
+for i in {1,2,3,4,5}; do python3 0E_single_task.py --fold=$i --gpu_id='7' --struc='single' --weight_balance=1  --epoch=1500 --layers=10 --summary_file='Exp0_E' --cv_path='/home/katieyth/gynecology/data/5_fold_CMU_rs_13/';done

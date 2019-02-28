@@ -1,0 +1,12 @@
+python3 train.py -s /data/put_data/cmchang/gynecology/model/variability/l150-nm1-wb1-rs13-g6 -y variability -g 6 -fn /data/put_data/cmchang/gynecology/variability-summary-rs13.csv -l 150 -nm 1 -wb 1 -rs 13
+python3 train.py -s /data/put_data/cmchang/gynecology/model/variability/l150-nm1-wb0-rs13-g6 -y variability -g 6 -fn /data/put_data/cmchang/gynecology/variability-summary-rs13.csv -l 150 -nm 1 -wb 0 -rs 13
+python3 train.py -s /data/put_data/cmchang/gynecology/model/variability/l150-nm0-wb1-rs13-g6 -y variability -g 6 -fn /data/put_data/cmchang/gynecology/variability-summary-rs13.csv -l 150 -nm 0 -wb 1 -rs 13
+python3 train.py -s /data/put_data/cmchang/gynecology/model/variability/l150-nm0-wb0-rs13-g6 -y variability -g 6 -fn /data/put_data/cmchang/gynecology/variability-summary-rs13.csv -l 150 -nm 0 -wb 0 -rs 13
+python3 train.py -s /data/put_data/cmchang/gynecology/model/variability/l300-nm1-wb1-rs13-g6 -y variability -g 6 -fn /data/put_data/cmchang/gynecology/variability-summary-rs13.csv -l 300 -nm 1 -wb 1 -rs 13
+python3 train.py -s /data/put_data/cmchang/gynecology/model/variability/l300-nm1-wb0-rs13-g6 -y variability -g 6 -fn /data/put_data/cmchang/gynecology/variability-summary-rs13.csv -l 300 -nm 1 -wb 0 -rs 13
+python3 train.py -s /data/put_data/cmchang/gynecology/model/variability/l300-nm0-wb1-rs13-g6 -y variability -g 6 -fn /data/put_data/cmchang/gynecology/variability-summary-rs13.csv -l 300 -nm 0 -wb 1 -rs 13
+python3 train.py -s /data/put_data/cmchang/gynecology/model/variability/l300-nm0-wb0-rs13-g6 -y variability -g 6 -fn /data/put_data/cmchang/gynecology/variability-summary-rs13.csv -l 300 -nm 0 -wb 0 -rs 13
+python3 train.py -s /data/put_data/cmchang/gynecology/model/variability/l450-nm1-wb1-rs13-g6 -y variability -g 6 -fn /data/put_data/cmchang/gynecology/variability-summary-rs13.csv -l 450 -nm 1 -wb 1 -rs 13
+python3 train.py -s /data/put_data/cmchang/gynecology/model/variability/l450-nm1-wb0-rs13-g6 -y variability -g 6 -fn /data/put_data/cmchang/gynecology/variability-summary-rs13.csv -l 450 -nm 1 -wb 0 -rs 13
+python3 train.py -s /data/put_data/cmchang/gynecology/model/variability/l450-nm0-wb1-rs13-g6 -y variability -g 6 -fn /data/put_data/cmchang/gynecology/variability-summary-rs13.csv -l 450 -nm 0 -wb 1 -rs 13
+python3 train.py -s /data/put_data/cmchang/gynecology/model/variability/l450-nm0-wb0-rs13-g6 -y variability -g 6 -fn /data/put_data/cmchang/gynecology/variability-summary-rs13.csv -l 450 -nm 0 -wb 0 -rs 13

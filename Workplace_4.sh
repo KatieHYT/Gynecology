@@ -1,0 +1,1 @@
+for i in {1,2,3,4,5}; do python3 0B_multi_task_concat.py --fold=$i --gpu_id='4' --struc='man_concat' --weight_balance=1  --epoch=1500 --layers=10 --summary_file='Exp0_B' --cv_path='/home/katieyth/gynecology/data/5_fold_CMU_rs_13/';done
